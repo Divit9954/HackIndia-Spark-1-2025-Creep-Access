@@ -4,7 +4,7 @@
 ![image](https://github.com/user-attachments/assets/c612ec99-8387-4d91-9b54-506cc373ec68)
 
 
-### *Bloodstain Pattern Analysis Web Application - User Manual*  
+### *Bloodstain Pattern Analysis Web Application 
 
 ---
 
