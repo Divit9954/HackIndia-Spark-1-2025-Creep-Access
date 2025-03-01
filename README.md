@@ -37,7 +37,7 @@ This web-based forensic tool allows users to *upload a bloodstain image* and pre
 ## *4. Technologies Used*  
 - *Frontend:* HTML, CSS, JavaScript  
 - *Backend:* Python (Flask/Django)  
-- *Image Processing:* OpenCV  
+- *Image Processing:* CNN model(Resnetv50)  
 - *Machine Learning:* TensorFlow/Keras  
 
 ---
